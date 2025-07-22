@@ -5,8 +5,15 @@
 }
 
 #squares {
-    display: flex;
-    flex-wrap: wrap;
-    width: 400px;
-    height: 320px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 320px;
+}
+
+.clear {
+    font-size: 40px;
+    font-weight: bold;
+    width: 600px;
+    height: 80px;
 }
