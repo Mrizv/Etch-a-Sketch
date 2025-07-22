@@ -1,0 +1,12 @@
+.square {
+  height: 20px;
+  width: 20px;
+  border: 2px solid black;
+}
+
+#squares {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 320px;
+}
